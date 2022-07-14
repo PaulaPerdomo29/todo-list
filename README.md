@@ -18,10 +18,10 @@ todolist requires [Node.js](https://nodejs.org/) v14+ to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-git clone https://github.com/juanperdomolol/VueChallenge.git
-cd challeng-typescript
+git clone https://github.com/PaulaPerdomo29/todo-list.git
+cd todo-list
 npm i
-npm serve
+npm run serve
 ```
 
 
